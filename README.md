@@ -1,2 +1,2 @@
 # gangsta_paradise
-Thug Life
+Thug Life n shit
