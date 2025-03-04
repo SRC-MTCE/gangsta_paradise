@@ -1,1 +1,0 @@
-https://raw.githubusercontent.com/GoogleChromeLabs/chrome-for-testing/main/data/latest-versions-per-milestone-with-downloads.json

@@ -1,9 +1,0 @@
-<take_next_config>
-    <active_control_point>nfst01</active_control_point>
-    <control_point_selection>
-        <item>nfst01</item>
-		<item>nfst02</item>
-		<item>nfts03</item>
-		<item>nfts04</item>
-    </control_point_selection>
-</take_next_config>
